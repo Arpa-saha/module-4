@@ -1,0 +1,73 @@
+body{
+    color: rgb(131, 156, 38);
+    font-family: 'Tourney', cursive;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+
+
+}
+h3.sub-title{
+    text-align: center;
+}
+.section-top{
+    display: flex;
+}
+.section-top-1 {
+    width: 50%;
+}
+.section-top-1.box {
+    background-color: beige;
+    border-radius: 10PX;
+    box-shadow: 20px 20px 20px rgb(120, 148, 104);
+}
+.section-top-2.box {
+    background-color: beige;
+    margin-left: 10px;
+    border-radius: 10PX;
+    box-shadow: 20px 20px 20px rgb(122, 136, 71);
+    
+}
+.section-top-2 {
+    width: 50%;
+}
+.section-top-2 img {
+    border-radius: 50%;
+    width: 55%;
+    height: auto;
+    position: relative;
+    left: 11%;
+    box-shadow: 20px 20px 20px rgb(63, 70, 37);
+
+}
+.section-top-3 {
+    width: 50%;
+}
+.section-top-3 img {
+    border-radius: 50%;
+    width: 55%;
+    height: auto;
+    position: relative;
+    left: 15%;
+    box-shadow: 20px 20px 20px rgb(66, 112, 165);
+
+}
+span.purple{
+    color: rgb(122, 80, 151);
+    margin-left: 67px;
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(109, 43, 54),rgb(52, 153, 111));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: lavenderblush;
+    margin-left: 58px;
+    float: left;
+    margin-top: -42px;
+}
+p{
+    padding: 60px;
+}
